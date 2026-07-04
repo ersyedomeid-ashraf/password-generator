@@ -17,4 +17,18 @@ PASSWORD GENERATOR - WORKFLOW
 - Enter number of numbers.
 - Enter number of symbols.
 
+5- Generate Password
+
+Case 1 (Letters) :
+- Randomly select letters.
+- Add selected letters to password list.
+
+Case 2 (Numbers) :
+- Randomly select numbers.
+- Add selected numbers to password list.
+
+Case 3 (Symbols) :
+- Randomly select symbols.
+- Add selected symbols to password list.
+
 """
