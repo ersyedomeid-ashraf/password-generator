@@ -123,3 +123,7 @@ for i in range(1, n_numbers + 1):
 for i in range(1, n_symbols + 1):
     char = random.choice(symbols)
     password_list += char
+
+print(password_list)
+random.shuffle(password_list)
+print(password_list)
