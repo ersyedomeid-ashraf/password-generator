@@ -31,4 +31,16 @@ Case 3 (Symbols) :
 - Randomly select symbols.
 - Add selected symbols to password list.
 
+6- Shuffle Password
+- Shuffle the password list randomly.
+
+7- Generate Final Password
+- Join all characters into a single string.
+
+8- Display Output
+- Print the generated password.
+
+9- End
+-Exit the program.
+
 """
