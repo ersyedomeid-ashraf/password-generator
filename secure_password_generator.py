@@ -103,3 +103,11 @@ letters = [
 ]
 numers = ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"]
 symbols = ["!", "@", "#", "$", "%", "&", "(", ")", "*", "+"]
+
+print("Welcome to Password Generator! ")
+
+n_letters = int(input("How many letters you want in your password?\n"))
+n_numbers = int(input("How many numbers you want in your password?\n"))
+n_symbols = int(input("How manny symbols you want in your password?\n"))
+
+password_list = []
